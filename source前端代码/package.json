@@ -1,0 +1,1 @@
+{"name":"geo-insight-demo","version":"1.2.0","private":true,"description":"GEO Insight AI品牌可见性监测平台","scripts":{"start":"python3 scripts/serve.py","build:single":"python3 scripts/export-single.py","check":"node --check dist/app.js"},"engines":{"node":">=18"},"dependencies":{},"devDependencies":{}}

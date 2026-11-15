@@ -1,0 +1,23 @@
+{
+ "brand": "君乐宝",
+ "total_analysis_rows": 26,
+ "platforms": {
+  "qwen": {
+   "platform": "qwen",
+   "platform_name": "通义千问",
+   "total_answers": 26,
+   "mentioned": 18,
+   "mention_rate": 0.6923,
+   "avg_rank_when_mentioned": 3.72,
+   "rank1_rate": 0.0385,
+   "top3_rate": 0.1154,
+   "top5_rate": 0.6923,
+   "sentiment_pos": 0,
+   "sentiment_neg": 0,
+   "sentiment_neu": 26,
+   "avg_citation_score": 3.85,
+   "avg_mentions_per_answer": 1.17
+  }
+ },
+ "answer_samples": []
+}

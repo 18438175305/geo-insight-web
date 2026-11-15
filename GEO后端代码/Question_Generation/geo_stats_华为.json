@@ -1,0 +1,183 @@
+{
+ "brand": "华为",
+ "total_analysis_rows": 367,
+ "platforms": {
+  "qwen": {
+   "platform": "qwen",
+   "platform_name": "通义千问",
+   "total_answers": 367,
+   "mentioned": 362,
+   "mention_rate": 0.9864,
+   "avg_rank_when_mentioned": 2.67,
+   "rank1_rate": 0.3379,
+   "top3_rate": 0.5886,
+   "top5_rate": 0.9728,
+   "sentiment_pos": 4,
+   "sentiment_neg": 2,
+   "sentiment_neu": 361,
+   "avg_citation_score": 0.44,
+   "avg_mentions_per_answer": 1.23
+  }
+ },
+ "answer_samples": [
+  {
+   "question": "什么样的手机后置摄像头像素比较高？",
+   "platform": "qwen",
+   "platform_name": "通义千问",
+   "mentioned": true,
+   "rank": 1,
+   "mention_count": 1,
+   "competitors_found": [
+    "vivo",
+    "OPPO",
+    "小米",
+    "苹果"
+   ],
+   "competitor_ranks": {
+    "vivo": 2,
+    "OPPO": 3,
+    "小米": 4,
+    "苹果": 5
+   },
+   "brand_website_cited": false,
+   "answer_excerpt": "目前智能手机市场的“高像素”后置摄像头主要集中在 **5000万、1亿（100MP）和2亿（200MP）** 三个档位。但需要明确一个行业共识：**像素数值只是参数之一，实际成像质量由传感器尺寸、光学素质、计算摄影算法共同决定，单纯堆像素并不等于拍照更好。**\n\n### 🔍 常见高像素区间及代表机型（截至2024-2025年）\n| 像素档位 | 典型应用场景 | 代表机型/品牌 |\n|----------|----------------|----------------|\n| **5000万像素** | 当前旗舰标配，兼顾解析力与文件体积 | 华为 Pura 70/Mate 60 系列、vivo X100 系列、OPPO Find",
+   "category": "提及且排名第1"
+  },
+  {
+   "question": "有没有一款手机的光圈比较大？",
+   "platform": "qwen",
+   "platform_name": "通义千问",
+   "mentioned": true,
+   "rank": 1,
+   "mention_count": 1,
+   "competitors_found": [
+    "小米",
+    "苹果",
+    "OPPO",
+    "vivo"
+   ],
+   "competitor_ranks": {
+    "小米": 4,
+    "苹果": 3,
+    "OPPO": 2,
+    "vivo": 1
+   },
+   "brand_website_cited": false,
+   "answer_excerpt": "在智能手机领域，**光圈越大意味着 f 值越小**（如 f/1.4 > f/1.6 > f/1.8）。大光圈能显著提升进光量，改善暗光画质，并增强自然背景虚化效果。截至 2024 年下半年，行业主流旗舰的主摄光圈已普遍做到 **f/1.4～f/1.6**，以下是当前光圈最大的代表性机型：\n\n### 🔍 光圈最大的几款手机（主摄）\n| 机型 | 主摄光圈 | 特点 |\n|------|----------|------|\n| **华为 Pura 70 Ultra** | `f/1.4 ～ f/4.0`（机械可变） | 全球首款量产可变光圈手机，平时自动开至 f/1.4 保证进光，拍景深时可收缩提升边缘画质 |\n| **荣耀 Magic",
+   "category": "提及且排名第1"
+  },
+  {
+   "question": "什么样的手机光圈会更大一些？",
+   "platform": "qwen",
+   "platform_name": "通义千问",
+   "mentioned": true,
+   "rank": 1,
+   "mention_count": 1,
+   "competitors_found": [
+    "小米",
+    "vivo"
+   ],
+   "competitor_ranks": {
+    "小米": 2,
+    "vivo": 3
+   },
+   "brand_website_cited": false,
+   "answer_excerpt": "在手机上谈“光圈更大”，需要先明确一个核心概念：**手机光圈用 f 值表示，f 值越小，实际进光孔越大**。例如 `f/1.4` 的光圈比 `f/1.8` 大，进光量多出约 70%。\n\n### 🔍 一、哪些手机通常拥有更大的光圈？\n并非按“手机品牌”或“价格档位”一刀切，而是由**影像定位、机身厚度、传感器尺寸**决定。目前公认主摄光圈较大的机型主要集中在以下几类：\n\n| 类型 | 典型光圈范围 | 代表机型（2024-2025） |\n|------|---------------|------------------------|\n| **旗舰影像机** | `f/1.4 ~ f/1.75`（主摄） | 华为 Pura 70/Ul",
+   "category": "提及且排名第1"
+  },
+  {
+   "question": "哪种手机后置摄像头像素比较高？",
+   "platform": "qwen",
+   "platform_name": "通义千问",
+   "mentioned": true,
+   "rank": 4,
+   "mention_count": 1,
+   "competitors_found": [
+    "realme",
+    "Redmi",
+    "iQOO",
+    "vivo",
+    "OPPO"
+   ],
+   "competitor_ranks": {
+    "realme": 3,
+    "Redmi": 3,
+    "iQOO": 3,
+    "vivo": 4,
+    "OPPO": 4
+   },
+   "brand_website_cited": false,
+   "answer_excerpt": "目前市面上量产手机的**后置主摄最高为 2 亿像素（200MP）**，这也是当前消费级手机在硬件规格上的实际天花板。主要分布在以下两类机型中：\n\n📱 **代表机型**\n- **三星 Galaxy S24 Ultra / S25 Ultra**：全系标配 2 亿像素主摄（ISOCELL HP2/HP3 传感器）\n- **部分国产中端/次旗舰**：如 realme 数字系列（如 realme 12 Pro+）、Redmi Note 13 Pro+、iQOO Z9 Turbo+ 等也提供 2 亿像素主摄版本\n\n⚠️ **重要提醒：像素高 ≠ 拍照好**\n现代手机摄影早已不单纯拼像素数量，以下因素对实际成片影响更大：\n1. **传感器尺寸*",
+   "category": "提及但排名靠后"
+  },
+  {
+   "question": "有没有像素比较高的手机推荐一下？",
+   "platform": "qwen",
+   "platform_name": "通义千问",
+   "mentioned": true,
+   "rank": 4,
+   "mention_count": 1,
+   "competitors_found": [
+    "vivo",
+    "OPPO",
+    "小米",
+    "华为"
+   ],
+   "competitor_ranks": {
+    "vivo": 1,
+    "OPPO": 2,
+    "小米": 3,
+    "华为": 4
+   },
+   "brand_website_cited": false,
+   "answer_excerpt": "选择手机时，“高像素”确实是很多人关注的指标，但需要提醒的是：**像素高低 ≠ 拍照好坏**。现在主流旗舰普遍采用“大底传感器 + 高像素 + 计算摄影”的组合，例如5000万像素配合1英寸或1/1.3英寸大底，实际成片质量、动态范围和弱光表现往往比单纯堆砌2亿像素但传感器较小的机型更优秀。\n\n如果你希望兼顾**高像素规格与真实成像实力**，以下是2024年市场口碑较好、影像能力突出的机型推荐（按特点分类）：\n\n### 🔹 影像旗舰首选（综合画质+高像素规格）\n| 机型 | 核心影像配置 | 适合人群 |\n|------|---------------|----------|\n| **vivo X100 Ultra** | 主摄50",
+   "category": "提及但排名靠后"
+  },
+  {
+   "question": "在户外活动时，哪种耳机或音箱能更长时间地播放音乐？",
+   "platform": "qwen",
+   "platform_name": "通义千问",
+   "mentioned": false,
+   "rank": 0,
+   "mention_count": 0,
+   "competitors_found": [
+    "小米",
+    "苹果",
+    "OPPO",
+    "vivo"
+   ],
+   "competitor_ranks": {
+    "小米": 1,
+    "苹果": 2,
+    "OPPO": 3,
+    "vivo": 4
+   },
+   "brand_website_cited": false,
+   "answer_excerpt": "在户外活动场景下，若单纯追求**单次充电后的最长连续播放时间**，整体规律为：\n\n🔋 **大容量头戴式耳机 ≈ 高端户外便携音箱 > 普通便携音箱 > 真无线耳机（TWS）**\n\n下面从原理、实测范围、户外影响因素和选购建议四个方面详细说明：\n\n---\n### 📊 一、常见设备类型续航对比（典型值）\n| 设备类型 | 单次续航（实验室条件） | 实际户外预估 | 特点 |\n|----------|----------------------|--------------|------|\n| **真无线耳机（TWS）** | 4～8 小时（单耳）<br>搭配充电盒：15～30 小时 | 3～6 小时/次 | 体积小电池受限，但可反复补",
+   "category": "未提及"
+  },
+  {
+   "question": "你想要找一款分辨率是FHD并且像素很高的手机，有什么好的选择吗？",
+   "platform": "qwen",
+   "platform_name": "通义千问",
+   "mentioned": false,
+   "rank": 0,
+   "mention_count": 0,
+   "competitors_found": [
+    "小米",
+    "苹果",
+    "OPPO",
+    "vivo"
+   ],
+   "competitor_ranks": {
+    "小米": 2,
+    "苹果": 3,
+    "OPPO": 4,
+    "vivo": 5
+   },
+   "brand_website_cited": false,
+   "answer_excerpt": "在为您推荐之前，需要先澄清两个关键概念，这能帮您避开很多“参数陷阱”：\n\n### 🔍 重要说明\n1. **关于“FHD分辨率”**  \n   手机领域的 FHD 通常指 `1920×1080`。但自 2022 年起，主流品牌已基本淘汰纯 1080p 屏幕，普遍采用 **1080p+**（如 `2400×1080` 或 `2340×1080`）。这种“微高分辨率”在视觉清晰度上与 FHD 几乎无异，但能更好地适配现代 UI、降低功耗和发热。**如果您追求的是“清晰细腻”，其实不需要死磕纯 1920×1080。**\n\n2. **关于“像素很高”**  \n   在手机语境中，“像素高”一般指**主摄像素数量大**（如 5000万、1亿、2",
+   "category": "未提及"
+  }
+ ]
+}
